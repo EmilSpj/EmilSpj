@@ -1,4 +1,4 @@
-### Hi there, I'm [Emil!](https://Emil.life) 👋
+### Hello there, I'm [Emil!](https://Emil.life) 👋
 
 <br />
 
