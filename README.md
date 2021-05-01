@@ -1,13 +1,9 @@
 ### Hi there, I'm [Emil!](https://Emil.life) 👋
 
-<a href="https://discordrep.com/u/171609234432065536">
-  <img align="left" alt="Emil's Discord" width="21px" src="https://raw.githubusercontent.com/EmilSpj/EmilSpj/master/assets/discord.svg?token=AT44VR4XJWVSP2HMX4YTFGLARWW2K" />
-</a>
-
 <br />
 <br />
 
-Hello, I'm Emil Spjelkavik, a passionate self-taught developer.
+I'm Emil Spjelkavik, a passionate self-taught developer.
 
 **Languages I know or will Learn:**  
 
