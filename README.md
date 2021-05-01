@@ -1,7 +1,6 @@
 ### Hi there, I'm [Emil!](https://Emil.life) 👋
 
 <br />
-<br />
 
 I'm Emil Spjelkavik, a passionate self-taught developer.
 
